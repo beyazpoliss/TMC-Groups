@@ -1,0 +1,6 @@
+name: TMC-Groups
+main: tr.beyazpolis.groupable.GroupableMain
+version: 1.0
+author: BeyazPolis
+description: "BeyazPolis"
+depend: [TMC-Librarys,TMC-Database]
